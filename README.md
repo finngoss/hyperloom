@@ -37,3 +37,6 @@ localizing on a node or link renders it as legible and shows its neighbors. Sort
 
 ### microlocal
 completely focus on a single object with the possibility to navigate through its connections. e.g. surfing the web.
+
+## transclusion
+Similar to modularity, transclusion allows for the inclusion of a section of hypermedia/hypertexxtile into another hypertexxtile while maintaining its original identity and allowing one to navigate back to the original source. This is Ted Nelson's Project Xanadu.
