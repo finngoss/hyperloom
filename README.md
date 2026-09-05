@@ -3,8 +3,11 @@ a hypermedia renderer and hypertexxtile fabricator. Hyperloom is an attempt to r
 
 #### rhizomatic
 how grass gets on. a decentralized net-work as opposed to hierarchical/arborescent (tree-like) structures.
-"Whispering grass, don't tell the trees //
+
+"Whispering grass, don't tell the trees
+
 'Cause the trees don't need to know" 
+
 - The Ink Spots
 
 ## hypertexxtile
@@ -14,7 +17,7 @@ an assemblage of hypermedia nodes with interfacing hyperlinks that provide conte
 media with rhizomatic connective potential. E.g. hypertext of the WWW is text that can link to other text. I hope that Hyperloom can eventually support render the following file types: .wif, .tex, .html, .xml, .txt, .md, .qmd, .jpynb, .bib, .pdf, .docx, .png, .jpeg, .wav, .mov, .mp3, .mp4, and probably more to come...
 
 ## hyperlink
-More than a one-way blind jump into hyperspace, a Hyperloom hyperlink is an informative interface between hypermedia. HTML '<a>' anchor elements become fully realized hyperharbors: sites through which connected hypermedia can contextualize and mediate their relationships. Rather than adopting the one-to-one principle of HTML hyperlinks, Hyperloom hyperlinks are many-to-many and inherently bidirectional. A link therefore does not take a user from one node to another, it is the realization of connection that renders hypermedia as mutually addressable co-navigable.
+More than a one-way blind jump into hyperspace, a Hyperloom hyperlink is an informative interface between hypermedia. HTML ``<a>`` anchor elements become fully realized hyperharbors: sites through which connected hypermedia can contextualize and mediate their relationships. Rather than adopting the one-to-one principle of HTML hyperlinks, Hyperloom hyperlinks are many-to-many and inherently bidirectional. A link therefore does not take a user from one node to another, it is the realization of connection that renders hypermedia as mutually addressable co-navigable.
 
 Hyperlinks themselves may contain text or other files, as well as metadata about the connection.
 
